@@ -6,7 +6,7 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/arthurbdiniz/kind-kong.git
+    repoURL: https://github.com/7Cass/kind-kong
     targetRevision: HEAD
     path: apps/foo-bar
   destination:
